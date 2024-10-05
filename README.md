@@ -1,3 +1,5 @@
+> [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/Van_Qish)
+
 # BLUM BOT
 
 Blum ? Blum is telegram web app mining on telegram, and blum bot is blum auto mining and complete missions bot
