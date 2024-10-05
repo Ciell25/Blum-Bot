@@ -25,8 +25,8 @@ Blum ? Blum is telegram web app mining on telegram, and blum bot is blum auto mi
 
 ## Set Up And Run
 
-- clone the project `git clone https://github.com/Ciell25/blum-bot.git`
-- run `cd blum-bot`.
+- clone the project `git clone https://github.com/Ciell25/Blum-Bot.git`
+- run `cd Blum-Bot`.
 - run `npm install && mkdir -p accounts`.
 - run `cp src/config/config_tmp.js src/config/config.js && cp src/config/proxy_list_tmp.js src/config/proxy_list.js`
 - To configure the app, run `nano src/config/config.js` and add your telegram app id and hash there (if you use telegram sessions)
@@ -68,7 +68,7 @@ if your bot get eror, with some error code `401` it mean your query expired, go 
 - run `git pull` or `git stash && git pull`
 - run `npm update`
 - read Setup and run again if any new step added
-- run the bot again `npm run start`
+- run the bot again `npm run start` or `node index.js`
 
 ## Note
 
